@@ -5,7 +5,8 @@
 
 # Dirs and files
 
-- [Air quality BCN prediction (Jupyter Notebook)](src/qair_time_serie.ipynb)
+- [Air quality BCN prediction SARIMA -  (Jupyter Notebook)](src/qair_time_serie.ipynb)
+- [Forex EUR-DOL prediction LSTM -  (Jupyter Notebook)]()
 
 # Author
 
